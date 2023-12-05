@@ -1,0 +1,21 @@
+.clock-container{
+    width: 200px;
+    height: 150px;
+    background-color: rgba(185, 231, 147, 0.786);
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.clock-app-container{
+    width: 400px;
+    height: 400px;
+    background-color: bisque;
+    padding-top: 20px;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

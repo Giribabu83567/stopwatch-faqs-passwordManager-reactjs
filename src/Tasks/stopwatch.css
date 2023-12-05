@@ -1,0 +1,22 @@
+.stopwatch-container{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    z-index: 2;
+    top: 100px;
+    left: 100px;
+}
+.stopwatch-image{
+    position: relative;
+    top: -40px;
+}
+.timer-container{
+    width: 250px;
+    height: 250px;
+    box-shadow: 0px 0px 25px blue;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

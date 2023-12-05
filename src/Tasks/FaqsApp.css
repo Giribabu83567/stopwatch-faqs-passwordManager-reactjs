@@ -1,0 +1,25 @@
+.faq-container{
+    width: 650px;
+    height: auto;
+    background-color: #9aa5b1;
+    border: 5px solid #cb8805;
+    padding: 30px 15px;
+}
+.faq-inner-container{
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.show-answer{
+    color: green;
+    padding-bottom: 15px;
+}
+.ques-ans-container{
+    border: 2px solid #d7dae6;
+    margin: 20px 0px;
+    padding: 0px 10px;
+    border-radius: 10px;
+}
+.plus-minus-btn{
+    cursor: pointer;
+}
